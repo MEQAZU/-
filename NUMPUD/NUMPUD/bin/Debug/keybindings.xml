@@ -1,0 +1,41 @@
+<KeyBindings>
+  <KeyBinding Key="D1" Path="https://www.youtube.com/" />
+  <KeyBinding Key="D2" Path="https://web.telegram.org/a/#-4148036642" />
+  <KeyBinding Key="D3" Path="https://bsuedu.ru/bsu/education/schedule/groups/index.php?group=90002296" />
+  <KeyBinding Key="D4" Path="https://e.mail.ru/inbox/" />
+  <KeyBinding Key="D6" Path="C:\Program Files (x86)\Steam\steam.exe" />
+  <KeyBinding Key="D7" Path="C:\Users\ploto\AppData\Local\Discord\app-1.0.9152\Discord.exe" />
+  <KeyBinding Key="D8" Path="C:\Users\ploto\AppData\Local\Yandex\YandexBrowser\Application\browser.exe" />
+  <KeyBinding Key="D9" Path="C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe" />
+  <KeyBinding Key="F1" Path="https://chatgpt.com/c/11d0fb40-6915-474b-8cfe-cc770af8fcd4?__cf_chl_rt_tk=GlNv1U2rfi2x9xyRQ6yi7RNIGhU7tYF5bC7Qd03DXTI-1719752414-0.0.1.1-10687" />
+  <KeyBinding Key="F3" Path="C:\Users\ploto\Downloads\goodbyedpi-0.2.3rc1\1_russia_blacklist.cmd" />
+  <KeyBinding Key="F4" Path="D:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2" />
+  <KeyBinding Key="F6" Path="D:\SteamLibrary\steamapps\common\Rust\Rust.exe" />
+  <KeyBinding Key="F5" Path="D:\SteamLibrary\steamapps\common\dota 2 beta\game\bin\win64\dota2.exe" />
+  <KeyBinding Key="F7" Path="D:\onlinefix" />
+  <KeyBinding Key="F9" Path="C:\Windows\system32\Taskmgr.exe" />
+  <KeyBinding Key="F8" Path="D:\premer\Adobe\Adobe Premiere Pro 2023\Adobe Premiere Pro.exe" />
+  <KeyBinding Key="D5" Path="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe" />
+  <KeyBinding Key="F2" Path="D:\otkat" />
+  <KeyBinding Key="F10" Path="C:\Windows\system32\Taskmgr.exe" />
+  <KeyBinding Key="NumLock" Path="https://www.youtube.com/" />
+  <KeyBinding Key="NumPad7" Path="https://www.youtube.com/" />
+  <KeyBinding Key="NumPad8" Path="https://web.telegram.org/a/#-4148036642" />
+  <KeyBinding Key="NumPad9" Path="https://bsuedu.ru/bsu/education/schedule/groups/index.php?group=90002296" />
+  <KeyBinding Key="NumPad4" Path="https://e.mail.ru/inbox/" />
+  <KeyBinding Key="NumPad5" Path="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe" />
+  <KeyBinding Key="NumPad6" Path="C:\Program Files (x86)\Steam\steam.exe" />
+  <KeyBinding Key="NumPad1" Path="C:\Users\ploto\AppData\Local\Discord\app-1.0.9152\Discord.exe" />
+  <KeyBinding Key="NumPad2" Path="C:\Users\ploto\AppData\Local\Yandex\YandexBrowser\Application\browser.exe" />
+  <KeyBinding Key="NumPad3" Path="C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe" />
+  <KeyBinding Key="NumPad0" Path="https://chatgpt.com/c/11d0fb40-6915-474b-8cfe-cc770af8fcd4?__cf_chl_rt_tk=GlNv1U2rfi2x9xyRQ6yi7RNIGhU7tYF5bC7Qd03DXTI-1719752414-0.0.1.1-10687" />
+  <KeyBinding Key="Home" Path="D:\otkat" />
+  <KeyBinding Key="Up" Path="C:\Users\ploto\Downloads\goodbyedpi-0.2.3rc1\1_russia_blacklist.cmd" />
+  <KeyBinding Key="PageUp" Path="D:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\game\bin\win64\cs2" />
+  <KeyBinding Key="Left" Path="D:\SteamLibrary\steamapps\common\dota 2 beta\game\bin\win64\dota2.exe" />
+  <KeyBinding Key="Right" Path="D:\SteamLibrary\steamapps\common\Rust\Rust.exe" />
+  <KeyBinding Key="End" Path="D:\onlinefix" />
+  <KeyBinding Key="Down" Path="D:\premer\Adobe\Adobe Premiere Pro 2023\Adobe Premiere Pro.exe" />
+  <KeyBinding Key="Next" Path="D:\photoshop\PhotoshopApp.exe" />
+  <KeyBinding Key="Insert" Path="C:\Windows\system32\Taskmgr.exe" />
+</KeyBindings>

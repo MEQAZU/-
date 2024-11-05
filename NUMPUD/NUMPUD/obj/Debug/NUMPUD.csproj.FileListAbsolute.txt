@@ -1,0 +1,14 @@
+C:\Users\ploto\source\repos\NUMPUD\NUMPUD\bin\Debug\NUMPUD.exe.config
+C:\Users\ploto\source\repos\NUMPUD\NUMPUD\bin\Debug\NUMPUD.exe
+C:\Users\ploto\source\repos\NUMPUD\NUMPUD\bin\Debug\NUMPUD.pdb
+C:\Users\ploto\source\repos\NUMPUD\NUMPUD\obj\Debug\NUMPUD.csproj.AssemblyReference.cache
+C:\Users\ploto\source\repos\NUMPUD\NUMPUD\obj\Debug\NUMPUD.Form1.resources
+C:\Users\ploto\source\repos\NUMPUD\NUMPUD\obj\Debug\NUMPUD.Properties.Resources.resources
+C:\Users\ploto\source\repos\NUMPUD\NUMPUD\obj\Debug\NUMPUD.csproj.GenerateResource.cache
+C:\Users\ploto\source\repos\NUMPUD\NUMPUD\obj\Debug\NUMPUD.csproj.CoreCompileInputs.cache
+C:\Users\ploto\source\repos\NUMPUD\NUMPUD\obj\Debug\NUMPUD.exe
+C:\Users\ploto\source\repos\NUMPUD\NUMPUD\obj\Debug\NUMPUD.pdb
+C:\Users\ploto\source\repos\NUMPUD\NUMPUD\bin\Debug\NUMPUD.exe.manifest
+C:\Users\ploto\source\repos\NUMPUD\NUMPUD\bin\Debug\NUMPUD.application
+C:\Users\ploto\source\repos\NUMPUD\NUMPUD\obj\Debug\NUMPUD.exe.manifest
+C:\Users\ploto\source\repos\NUMPUD\NUMPUD\obj\Debug\NUMPUD.application
